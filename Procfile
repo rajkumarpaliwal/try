@@ -1,1 +1,1 @@
-web: gunicon flaskapi:app --log-file -
+web: uwsgi uwsgi.ini
